@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8701f748d5b3b497e8e0e727b76e3ac2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sun: {instanceID: 0}
+  - suisei: {instanceID: 0}
+  - kinsei: {instanceID: 0}
+  - earth: {instanceID: 0}
+  - moon: {instanceID: 0}
+  - mars: {instanceID: 0}
+  - mokusei: {instanceID: 0}
+  - dosei: {instanceID: 0}
+  - tenousei: {instanceID: 0}
+  - kaiousei: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
